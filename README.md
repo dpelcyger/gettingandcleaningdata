@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ###Getting and Cleaning Data Course Project
 
 Project of Getting and Cleaning Data course on Coursera, January 2016.
@@ -50,3 +51,6 @@ You should create one R script called run_analysis.R that does the following.
     2.  README.md: this file
     3.  run_analysis.R: R script to transform raw data set in a tidy one
  
+=======
+# gettingandcleaningdata
+>>>>>>> 9a60022fa027e456a4730738c35184a9cb40034a
